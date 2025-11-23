@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/stars/hheydarian/the-pragmatic-programmer-parsion?style=social" alt="GitHub stars">
   <img src="https://img.shields.io/github/forks/hheydarian/the-pragmatic-programmer-parsion?color=blueviolet" alt="GitHub forks">
   <img src="https://img.shields.io/github/last-commit/hheydarian/the-pragmatic-programmer-parsion?color=9cf" alt="Last Commit">
-  <img src="https://img.shields.io/badge/Translation-Progress-ongoing-yellow" alt="Translation Status">
+  <img src="https://img.shields.io/badge/Translation-20%25-success" alt="Translation Status">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hheydarian.the-pragmatic-programmer-parsion" alt="Visitors">
 </p>
 
@@ -66,11 +66,13 @@
 | 03    | The Basic Tools                           | ابزارهای پایه                                | ❌     | [The-Basic-Tools](Book/03/chapter03.md)                   |
 | 04    | Pragmatic Paranoia                        | بدگمانی هوشمندانه                            | ❌     | [Pragmatic-Paranoia](Book/04/chapter04.md)             |
 | 05    | Bend or Break                             | انعطاف یا شکست                              | ❌     | [Bend-or-Break](Book/05/chapter05.md)                       |
-| 06    | While You Are Coding                      | وقتی کدنویسی می‌کنید                        | ❌     | [While-You-Are-Coding](Book/06/chapter06.md)         |
-| 07    | Before the Project                        | پیش از پروژه                                 | ❌     | [Before-the-Project](Book/07/chapter07.md)             |
-| 08    | Pragmatic Projects                        | پروژه‌های عملگرایانه                         | ❌     | [Pragmatic-Projects](Book/08/chapter08.md)             |
-| 09    | Postface                                  | پس‌گفتار                                     | ❌     | [Postface](Book/09/chapter09.md)                                 |
-| 10    | Postface                                  | پس‌گفتار                                     | ❌     | [Postface](Book/10/chapter10.md)
+| 06    | Concurrency                      | همزمانی                        | ❌     | [Concurrency](Book/06/chapter06.md)         |
+| 07    | While You Are Coding                      | وقتی کدنویسی می‌کنید                        | ❌     | [While-You-Are-Coding](Book/07/chapter07.md)         |
+| 08    | Before the Project                        | پیش از پروژه                                 | ❌     | [Before-the-Project](Book/08/chapter08.md)             |
+| 09    | Pragmatic Projects                        | پروژه‌های عملگرایانه                         | ❌     | [Pragmatic-Projects](Book/09/chapter09.md)             |
+| 10    | Postface                                  | پیشنویس                                     | ❌     | [Postface](Book/10/chapter10.md)                                 |
+| 11    | A1                                  | کتاب‌شناسی                                    | ❌     | [A1](Book/11/chapter11.md)                                      |
+| 12    | A2                                   | پاسخ‌های برای تمرین‌ها                                    | ❌     | [A2](Book/11/chapter11.md)                                      |
 
 </div>
 
