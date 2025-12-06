@@ -69,11 +69,11 @@
 | 05    | Bend or Break                             | انعطاف یا شکست                              | ✅     | [Bend-or-Break](Book/05/chapter05.md)                       |
 | 06    | Concurrency                      | همزمانی                        | ✅     | [Concurrency](Book/06/chapter06.md)         |
 | 07    | While You Are Coding                      | وقتی کدنویسی می‌کنید                        | ✅     | [While-You-Are-Coding](Book/07/chapter07.md)         |
-| 08    | Before the Project                        | پیش از پروژه                                 | ❌     | [Before-the-Project](Book/08/chapter08.md)             |
-| 09    | Pragmatic Projects                        | پروژه‌های عملگرایانه                         | ❌     | [Pragmatic-Projects](Book/09/chapter09.md)             |
-| 10    | Postface                                  | پیشنویس                                     | ❌     | [Postface](Book/10/chapter10.md)                                 |
+| 08    | Before the Project                        | پیش از پروژه                                 | ✅     | [Before-the-Project](Book/08/chapter08.md)             |
+| 09    | Pragmatic Projects                        | پروژه‌های عملگرایانه                         | ✅     | [Pragmatic-Projects](Book/09/chapter09.md)             |
+| 10    | Postface                                  | پیشنویس                                     | ✅     | [Postface](Book/10/chapter10.md)                                 |
 | 11    | A1                                  | کتاب‌شناسی                                    | ❌     | [A1](Book/11/chapter11.md)                                      |
-| 12    | A2                                   | پاسخ‌های برای تمرین‌ها                                    | ❌     | [A2](Book/11/chapter11.md)                                      |
+| 12    | A2                                   | پاسخ‌های برای تمرین‌ها                                    | ✅     | [A2](Book/12/chapter12.md)                                      |
 
 </div>
 
